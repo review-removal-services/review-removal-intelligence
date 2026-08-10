@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@review-removal-services/review-removal-intelligence)](https://npmjs.com/package/@review-removal-services/review-removal-intelligence)
 [![PyPI](https://img.shields.io/pypi/v/review-removal-intelligence)](https://pypi.org/project/review-removal-intelligence)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21869708.svg)](https://doi.org/10.5281/zenodo.21869708)
 
 Review Removal Intelligence is an automated review management system designed to streamline the identification, analysis, and tracking of problematic online reviews. Built by [ReviewRemoval.Services](https://reviewremoval.services).
 
@@ -140,7 +140,7 @@ Review Removal Intelligence · Review Management · Fake Review Detection · Onl
 | NPM | https://npmjs.com/package/@review-removal-services/review-removal-intelligence |
 | PyPI | https://pypi.org/project/review-removal-intelligence |
 | Hugging Face | https://huggingface.co/datasets/review-removal-services/review-intelligence-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21869708 |
 | Docs | https://review-removal-intelligence.readthedocs.io |
 | Quora | https://www.quora.com/profile/Review-Removal-Services |
 | Pinterest | https://www.pinterest.com/ReviewRemovalServices/ |
