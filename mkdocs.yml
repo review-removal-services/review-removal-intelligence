@@ -1,0 +1,21 @@
+site_name: Review Removal Intelligence
+site_url: https://review-removal-intelligence.readthedocs.io
+site_description: Automated review management system for identification, analysis, and tracking of problematic online reviews across Google, Yelp, Airbnb, and other platforms.
+site_author: ReviewRemoval.Services
+
+repo_name: review-removal-services/review-removal-intelligence
+repo_url: https://github.com/review-removal-services/review-removal-intelligence
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

@@ -1,0 +1,37 @@
+{
+  "name": "@review-removal-services/review-removal-intelligence",
+  "version": "1.0.0",
+  "description": "Review Removal Intelligence is an automated review management system designed to streamline the identification, analysis, and tracking of problematic online reviews.",
+  "main": "index.js",
+  "bin": {
+    "review-removal-intel": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "review-removal",
+    "review-intelligence",
+    "fake-review-detection",
+    "online-review-monitoring",
+    "policy-compliance",
+    "review-analysis",
+    "reputation-management",
+    "review-management",
+    "google-reviews",
+    "yelp-reviews",
+    "review-monitoring",
+    "issue-detection"
+  ],
+  "author": "ReviewRemoval.Services",
+  "license": "MIT",
+  "homepage": "https://reviewremoval.services",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/review-removal-services/review-removal-intelligence"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

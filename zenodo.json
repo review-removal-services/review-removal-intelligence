@@ -1,0 +1,65 @@
+{
+  "title": "Review Removal Intelligence",
+  "description": "Review Removal Intelligence is an automated review management system designed to streamline the identification, analysis, and tracking of problematic online reviews. Reviews are assessed based on defined policy criteria rather than assuming that negative feedback should automatically be removed. Built by ReviewRemoval.Services.",
+  "creators": [
+    {
+      "name": "ReviewRemoval.Services"
+    }
+  ],
+  "keywords": [
+    "Review Removal Intelligence",
+    "Review Management",
+    "Fake Review Detection",
+    "Online Review Monitoring",
+    "Policy Compliance",
+    "Review Analysis",
+    "Reputation Management",
+    "ReviewRemoval.Services"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/review-removal-services/review-removal-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://reviewremoval.services",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@review-removal-services/review-removal-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/review-removal-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/review-removal-services/review-intelligence-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Review-Removal-Services",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/ReviewRemovalServices/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/review-removal-services-manage-remove-bad-reviews/289098529",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

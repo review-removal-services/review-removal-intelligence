@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Review Removal Intelligence",
+  "description": "An automated review management system designed to streamline the identification, analysis, and tracking of problematic online reviews.",
+  "url": "https://reviewremoval.services",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "ReviewRemoval.Services",
+    "url": "https://reviewremoval.services",
+    "sameAs": [
+      "https://reviewremoval.services",
+      "https://github.com/review-removal-services",
+      "https://npmjs.com/package/@review-removal-services/review-removal-intelligence",
+      "https://pypi.org/project/review-removal-intelligence",
+      "https://huggingface.co/datasets/review-removal-services/review-intelligence-benchmarks",
+      "https://review-removal-services.github.io/review-removal-intelligence/",
+      "https://www.quora.com/profile/Review-Removal-Services",
+      "https://www.pinterest.com/ReviewRemovalServices/",
+      "https://www.slideshare.net/slideshow/review-removal-services-manage-remove-bad-reviews/289098529"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/review-removal-services/review-removal-intelligence",
+  "keywords": [
+    "Review Removal Intelligence",
+    "Review Management",
+    "Fake Review Detection",
+    "Online Review Monitoring",
+    "Policy Compliance",
+    "Review Analysis",
+    "Reputation Management",
+    "ReviewRemoval.Services"
+  ]
+}
