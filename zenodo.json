@@ -55,7 +55,12 @@
       "identifier": "https://www.pinterest.com/ReviewRemovalServices/",
       "relation": "isSupplementTo",
       "scheme": "url"
-    },
+    },{
+  "identifier": "https://zenodo.org/records/21869708",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+}
+    
     {
       "identifier": "https://www.slideshare.net/slideshow/review-removal-services-manage-remove-bad-reviews/289098529",
       "relation": "isSupplementTo",
